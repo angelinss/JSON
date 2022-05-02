@@ -1,24 +1,8 @@
 { 
-	"p1": [
-		"name":"Alina",
+	"person": [
+		"name":"Angelina",
 		"age": 20,
 		"pets":1,
-		"salary":1500
-	]
-},
-{	"p2": [
-		"name":"Victor",
-		"age":25,
-		"pets":2,
-		"salary":1200
-	]
-},
-{
-	"p3": [
-		"name":"John",
-		"age":30,
-		"pets":1,
-		"salary":3000
-	]
+		"salary":1500 ]
 }
 
