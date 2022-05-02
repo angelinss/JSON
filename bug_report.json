@@ -10,6 +10,6 @@
     "Reported By":"Your Name",
     "Reported On":"Date",
     "Reason":"Defect",
-    "Status":"New/Open/Active (Depends on the Tool you are using)",
+    "Status":"New/Open/Active(Depends on the Tool you are using)",
     "Environment":"Windows 2003/SQL Server 2005" ]
 }
