@@ -1,5 +1,5 @@
 {
-	"skills": [
+	"skills": {
 		1:"Basic theory (What is testing, bug reports, documentation, types, methods, directions of testing, etc.) SDLC, STLC",
 		2:"Client-server architecture",
 		3:"HTTP Server Request Methods",
@@ -26,7 +26,7 @@
 		24:"Redis non-relational database (installation, configuration and use)",
 		25:"Load testing in Jmeter",
 		26:"Scrum development methodology",
-		27:"Python. (Learning the basics. Creating a client-server application)" ]
+		27:"Python. (Learning the basics. Creating a client-server application)" }
 
 
 }
