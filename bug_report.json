@@ -1,5 +1,5 @@
 {
-  "Example of bug-report": [
+  "Example of bug-report": {
     "Bug Name":"Application crashes upon clicking the SAVE button while creating a new user",
     "Bug ID":"(It will be automatically created by the BUG Tracking tool once you save this bug)",
     "Area Path":"USERS menu -> New Users",
@@ -11,5 +11,5 @@
     "Reported On":"Date",
     "Reason":"Defect",
     "Status":"New/Open/Active(Depends on the Tool you are using)",
-    "Environment":"Windows 2003/SQL Server 2005" ]
+    "Environment":"Windows 2003/SQL Server 2005" }
 }
